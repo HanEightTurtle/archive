@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,professorming.net
+  - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-SUFFIX,nfscdict.com
+  - DOMAIN-SUFFIX,gnews.org

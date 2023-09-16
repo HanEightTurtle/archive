@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,g-tun
