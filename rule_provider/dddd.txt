@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,nfscdict.com
   - DOMAIN-SUFFIX,gnews.org
   - DOMAIN-SUFFIX,blogspot.com
+  - DOMAIN-SUFFIX,newhongqi.org
