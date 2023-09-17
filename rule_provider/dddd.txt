@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,rfa.org
   - DOMAIN-SUFFIX,nfscdict.com
   - DOMAIN-SUFFIX,gnews.org
+  - DOMAIN-SUFFIX,blogspot.com
