@@ -7,4 +7,3 @@
 ||stratum-ravencoin.flypool.org^$important
 ||www.internetdownloadmanager.com^$important
 ||*.acc-pool.pw^$important
-||youtube.com^$third-party
