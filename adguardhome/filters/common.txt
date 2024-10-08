@@ -1,0 +1,9 @@
+||new.nebu.ltd^$important
+||srv.nebu.ltd^$important
+||asia2.ethermine.org^$important
+||asia1-etc.ethermine.org^$important
+||alt.nebu.ltd^$important
+||stratum-ergo.flypool.org^$important
+||stratum-ravencoin.flypool.org^$important
+||www.internetdownloadmanager.com^$important
+||*.acc-pool.pw^$important

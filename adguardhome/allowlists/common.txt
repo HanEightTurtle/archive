@@ -1,0 +1,7 @@
+@@||s.click.aliexpress.com^$important
+@@||guanjia.qq.com^$important
+@@||verify.snssdk.com^$important
+@@||ynuf.aliapp.org^$important
+@@||fc.yahoo.com^$important
+@@||c.youdao.com^$important
+@@||connect.rom.miui.com^$important
