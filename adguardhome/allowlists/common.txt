@@ -4,4 +4,3 @@
 @@||ynuf.aliapp.org^$important
 @@||fc.yahoo.com^$important
 @@||c.youdao.com^$important
-@@||connect.rom.miui.com^$important
