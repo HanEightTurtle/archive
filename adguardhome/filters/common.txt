@@ -7,3 +7,5 @@
 ||stratum-ravencoin.flypool.org^$important
 ||*.internetdownloadmanager.com^$important
 ||*.acc-pool.pw^$important
+||*.darkreader.org^$important
+||*.darkreader.app^$important
