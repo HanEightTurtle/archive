@@ -4,3 +4,4 @@
 @@||ynuf.aliapp.org^$important
 @@||fc.yahoo.com^$important
 @@||c.youdao.com^$important
+@@||e.tapdb.net^$important
