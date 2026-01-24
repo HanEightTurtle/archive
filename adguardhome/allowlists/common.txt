@@ -2,6 +2,7 @@
 @@||guanjia.qq.com^$important
 @@||verify.snssdk.com^$important
 @@||ynuf.aliapp.org^$important
+@@||acjs.aliyun.com^$important
 @@||fc.yahoo.com^$important
 @@||c.youdao.com^$important
 @@||e.tapdb.net^$important
